@@ -1,1 +1,1 @@
-some contentious changes on the feature branch
+some correct changes on the feature branch
