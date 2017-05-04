@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 "a new file" 
-=======
-something 
->>>>>>> origin/master
+
